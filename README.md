@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/andyward0791/Deepsea/_apis/build/status/Eldarrin.TestPipeline?branchName=master)](https://dev.azure.com/andyward0791/Deepsea/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
